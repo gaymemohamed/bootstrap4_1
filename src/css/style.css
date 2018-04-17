@@ -1,0 +1,32 @@
+body{
+  background-color: #333;
+  color: #fff
+}
+.navbar{
+  border-bottom: #008ed6 3px solid;
+  opacity: .8
+}
+#home-section{
+  background : url("../imgaes/children-community-family-9746.jpg") no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 700px
+}
+.home-inner{
+  padding-top: 150px
+}
+.dark-overlay{
+  background-color: rgba(0,0,0,.8);
+  min-height: 700px
+}
+.card-form{
+  opacity: .8
+}
+.home-fa{
+  color: #008ed6;
+  background-color: #fff;
+  border-radius: 5px;
+  font-size: 30px;
+  padding: 4px
+
+}
